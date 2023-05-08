@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rishikesh Roy
 - 👀 I’m interested in Frontend Development
-- 🌱 I’m currently learning Web devvelopment
+- 🌱 I’m currently learning Web development and React.js
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
